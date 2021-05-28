@@ -1,0 +1,4 @@
+[submodule "wjuncker/AirProof"]
+	path = wjuncker/AirProof
+	url = git@github.com:wjuncker/AirProof.git
+	branch = test
